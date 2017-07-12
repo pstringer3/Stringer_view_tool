@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+'''ruby
+StringerVeiwTool::Renderer.copyright 'Parker Stringer', 'All Rights Reserved'
+'''
+
 
 ## Development
 
